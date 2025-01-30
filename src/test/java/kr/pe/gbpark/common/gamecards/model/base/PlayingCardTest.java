@@ -1,5 +1,6 @@
 package kr.pe.gbpark.common.gamecards.model.base;
 
+import kr.pe.gbpark.common.gamecards.model.cards.playing.PlayingCard;
 import kr.pe.gbpark.common.gamecards.model.enums.CardType;
 import kr.pe.gbpark.common.gamecards.model.enums.PlayingCardRank;
 import kr.pe.gbpark.common.gamecards.model.enums.PlayingCardSuit;

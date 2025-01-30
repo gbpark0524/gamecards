@@ -8,6 +8,6 @@ class GamecardsApplicationTests {
 
 	@Test
 	void contextLoads() {
+		GamecardsApplication.main(new String[] {});
 	}
-
 }
